@@ -13,7 +13,7 @@ Ao utilizar a tecnica de simular o acesso via código, precisamos considerar alg
 * Python 3.7.0
 * Pip 10.0.1
 
-** Recomendo a utilização um ```virtualenv``` 
+** Recomendo a utilização de um ```virtualenv``` 
 https://virtualenv.pypa.io/en/stable/
 
 ## Configuração
