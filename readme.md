@@ -1,6 +1,6 @@
 ## Crawler
 
-O teste consiste em acessar uma página que contém um formulário, com um botão que retorna uma resposta ao ser clicado pelo usuário. 
+O exemplo consiste em acessar uma página que contém um formulário, com um botão que retorna uma página resposta ao clique do usuário. 
 
 Ao utilizar a tecnica de simular o acesso via código, precisamos considerar alguns critérios: 
 
