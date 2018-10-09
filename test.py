@@ -47,5 +47,4 @@ class FindAnswer(Thread):
             raise Exception('An error occured here.')
  
 if __name__ == '__main__':
-    while True:
-        FindAnswer.run()
+    FindAnswer.run()
